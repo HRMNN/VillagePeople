@@ -6,5 +6,8 @@ Contents:
 - A Resource Overview
 - B Data Dictionary
 - 0 VillagePeople
-- 1 Demonstrator
+- 1 VillagePeople-Demonstrator
 - 2 Presentation
+
+Description of Files
+1 VillagePeople-Demonstrator will take part of the results and create an HTML file. This HTML file, using folium, will visualize the districts of Germany in an interactive fashion, and predictions of the population development.
